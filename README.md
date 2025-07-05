@@ -1,1 +1,1 @@
-# AI-Powered-Diet-Planner
+# AI-Powered Diet Planner
