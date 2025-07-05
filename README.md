@@ -28,9 +28,6 @@
 4. Hugging Face – For deploying the trained food classifier model for API-based inference​
 5. A public Food Image Dataset (here, the "Food-101" dataset), for training the classifier
 
-# Flow Diagram
- Generated image
-
 # Implementation
 1. Data Collection & Preprocessing​
   1. The project begins with collecting a comprehensive food image dataset - "Food-101 dataset​
